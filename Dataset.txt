@@ -1,0 +1,2 @@
+Sentiment140 dataset, whose size is about 216,73 MB, can be downloaded from 
+Kaggle "https://www.kaggle.com/datasets/kazanova/sentiment140"
